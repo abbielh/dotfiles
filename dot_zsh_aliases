@@ -1,0 +1,5 @@
+alias vi="nvim"
+alias neofetch="fastfetch"
+alias upgrade="brew"
+alias ls="exa"
+alias cat="bat"
